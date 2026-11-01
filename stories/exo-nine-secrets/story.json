@@ -1,0 +1,1230 @@
+{
+  "scriptVersion": 1,
+  "id": "exo-nine-secrets",
+  "title": "EXO：九个秘密，一部手机",
+  "description": "你是手机主人。九位早已认识的朋友各自藏着一段秘密；通过聊天、相册、备忘录和时间线，拼出那晚被隐去的真相。全员感情线与多结局均为虚构互动设定。",
+  "revision": 1,
+  "phone": {
+    "owner": "你",
+    "date": "2026-11-01",
+    "time": "21:41",
+    "battery": 89,
+    "network": "5G",
+    "wallpaper": "sage",
+    "theme": "light",
+    "notifications": true
+  },
+  "installedApps": [
+    "wechat",
+    "phone",
+    "messages",
+    "contacts",
+    "photos",
+    "notes",
+    "calendar",
+    "files",
+    "weibo",
+    "instagram",
+    "safari"
+  ],
+  "contacts": [
+    {
+      "id": "suho",
+      "name": "SUHO（金俊勉）",
+      "phone": "",
+      "avatar": "",
+      "bio": "可靠的队长型朋友；总是先确认你是否安全。"
+    },
+    {
+      "id": "xiumin",
+      "name": "XIUMIN（金珉锡）",
+      "phone": "",
+      "avatar": "",
+      "bio": "细心、冷静，记得你说过的每个小细节。"
+    },
+    {
+      "id": "lay",
+      "name": "LAY（张艺兴）",
+      "phone": "",
+      "avatar": "",
+      "bio": "温和而神秘，常常在关键时刻出现。"
+    },
+    {
+      "id": "baekhyun",
+      "name": "BAEKHYUN（边伯贤）",
+      "phone": "",
+      "avatar": "",
+      "bio": "爱开玩笑、反应很快，擅长把尴尬变成笑点。"
+    },
+    {
+      "id": "chen",
+      "name": "CHEN（金钟大）",
+      "phone": "",
+      "avatar": "",
+      "bio": "幽默、体贴，常在大家快吵起来时转移话题。"
+    },
+    {
+      "id": "chanyeol",
+      "name": "CHANYEOL（朴灿烈）",
+      "phone": "",
+      "avatar": "",
+      "bio": "热情直接，喜欢用语音和照片记录日常。"
+    },
+    {
+      "id": "do",
+      "name": "D.O.（都暻秀）",
+      "phone": "",
+      "avatar": "",
+      "bio": "话不多但观察敏锐，习惯先核对事实。"
+    },
+    {
+      "id": "kai",
+      "name": "KAI（金钟仁）",
+      "phone": "",
+      "avatar": "",
+      "bio": "感性、亲近，常用轻松的话照顾你的情绪。"
+    },
+    {
+      "id": "sehun",
+      "name": "SEHUN（吴世勋）",
+      "phone": "",
+      "avatar": "",
+      "bio": "嘴硬、爱吐槽，遇到你的事却格外认真。"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-suho",
+      "app": "wechat",
+      "title": "SUHO（金俊勉）",
+      "participants": [
+        "owner",
+        "suho"
+      ],
+      "messages": [
+        {
+          "id": "msg-suho-1",
+          "body": "你今天有空吗？有件事想当面跟你说。",
+          "senderId": "suho",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-suho-2",
+          "body": "先别急着问其他人。我想把我知道的部分说清楚。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-suho-3",
+          "body": "如果你愿意，我会把那份备份给你看。",
+          "senderId": "suho",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-xiumin",
+      "app": "wechat",
+      "title": "XIUMIN（金珉锡）",
+      "participants": [
+        "owner",
+        "xiumin"
+      ],
+      "messages": [
+        {
+          "id": "msg-xiumin-1",
+          "body": "你有没有注意到，大家发消息的时间不太对？",
+          "senderId": "xiumin",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-xiumin-2",
+          "body": "我把时间顺序记下来了。不是谁记错，是记录本身有缺口。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-xiumin-3",
+          "body": "你先看我发你的备忘，不要急着下结论。",
+          "senderId": "xiumin",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-lay",
+      "app": "wechat",
+      "title": "LAY（张艺兴）",
+      "participants": [
+        "owner",
+        "lay"
+      ],
+      "messages": [
+        {
+          "id": "msg-lay-1",
+          "body": "最近还好吗？别太晚睡。",
+          "senderId": "lay",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-lay-2",
+          "body": "有一段语音，我一直不知道该不该交给你。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-lay-3",
+          "body": "等你准备好了，我再发给你。",
+          "senderId": "lay",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-baekhyun",
+      "app": "wechat",
+      "title": "BAEKHYUN（边伯贤）",
+      "participants": [
+        "owner",
+        "baekhyun"
+      ],
+      "messages": [
+        {
+          "id": "msg-baekhyun-1",
+          "body": "在吗在吗！今天群里怎么这么安静ㅋㅋ",
+          "senderId": "baekhyun",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-baekhyun-2",
+          "body": "我不是故意不回你，那天我打了好多字又删掉了。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-baekhyun-3",
+          "body": "你要是生气，可以先骂我三分钟。",
+          "senderId": "baekhyun",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-chen",
+      "app": "wechat",
+      "title": "CHEN（金钟大）",
+      "participants": [
+        "owner",
+        "chen"
+      ],
+      "messages": [
+        {
+          "id": "msg-chen-1",
+          "body": "今天吃饭了吗？别光顾着查线索。",
+          "senderId": "chen",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-chen-2",
+          "body": "我知道大家为什么会一起沉默，但每个人的理由不一样。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-chen-3",
+          "body": "我不想替他们辩解，你应该自己听完所有版本。",
+          "senderId": "chen",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-chanyeol",
+      "app": "wechat",
+      "title": "CHANYEOL（朴灿烈）",
+      "participants": [
+        "owner",
+        "chanyeol"
+      ],
+      "messages": [
+        {
+          "id": "msg-chanyeol-1",
+          "body": "我找到一个旧音频文件！文件名只有一个句号。",
+          "senderId": "chanyeol",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-chanyeol-2",
+          "body": "开头好像被剪掉了，但后面能听见有人叫你的名字。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-chanyeol-3",
+          "body": "我先备份，不会乱动原文件。",
+          "senderId": "chanyeol",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-do",
+      "app": "wechat",
+      "title": "D.O.（都暻秀）",
+      "participants": [
+        "owner",
+        "do"
+      ],
+      "messages": [
+        {
+          "id": "msg-do-1",
+          "body": "我核对过日期了。群里说的那天，实际有两种版本。",
+          "senderId": "do",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-do-2",
+          "body": "先看原始记录，再听转述。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-do-3",
+          "body": "我把对照表放在文件里了。",
+          "senderId": "do",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-kai",
+      "app": "wechat",
+      "title": "KAI（金钟仁）",
+      "participants": [
+        "owner",
+        "kai"
+      ],
+      "messages": [
+        {
+          "id": "msg-kai-1",
+          "body": "你不用一个人扛着。想休息就先休息。",
+          "senderId": "kai",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-kai-2",
+          "body": "那张照片我一直留着，不是因为秘密，是因为那天很重要。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-kai-3",
+          "body": "如果你想看，我可以发给你。",
+          "senderId": "kai",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-sehun",
+      "app": "wechat",
+      "title": "SEHUN（吴世勋）",
+      "participants": [
+        "owner",
+        "sehun"
+      ],
+      "messages": [
+        {
+          "id": "msg-sehun-1",
+          "body": "你终于上线了。",
+          "senderId": "sehun",
+          "time": "2026-11-01 10:00"
+        },
+        {
+          "id": "msg-sehun-2",
+          "body": "我早就觉得那份文件不对劲，但他们让我先别告诉你。",
+          "senderId": "owner",
+          "time": "2026-11-01 12:01"
+        },
+        {
+          "id": "msg-sehun-3",
+          "body": "我不想再瞒你了。你自己决定要不要继续查。",
+          "senderId": "sehun",
+          "time": "2026-11-01 14:02"
+        }
+      ]
+    },
+    {
+      "id": "chat-exo-group",
+      "app": "wechat",
+      "title": "今晚别装死（10）",
+      "participants": [
+        "owner",
+        "suho",
+        "xiumin",
+        "lay",
+        "baekhyun",
+        "chen",
+        "chanyeol",
+        "do",
+        "kai",
+        "sehun"
+      ],
+      "messages": [
+        {
+          "id": "group-001",
+          "body": "大家晚上好。今天先把事情说清楚？",
+          "senderId": "suho",
+          "time": "2026-11-01 20:01"
+        },
+        {
+          "id": "group-002",
+          "body": "怎么突然这么正式ㅋㅋ",
+          "senderId": "baekhyun",
+          "time": "2026-11-01 20:02"
+        },
+        {
+          "id": "group-003",
+          "body": "因为有人把旧文件发给我了。",
+          "senderId": "do",
+          "time": "2026-11-01 20:03"
+        },
+        {
+          "id": "group-004",
+          "body": "等一下，那份文件不是已经删了吗？",
+          "senderId": "xiumin",
+          "time": "2026-11-01 20:04"
+        },
+        {
+          "id": "group-005",
+          "body": "……你们是不是有事瞒着我？",
+          "senderId": "owner",
+          "time": "2026-11-01 20:05"
+        },
+        {
+          "id": "group-006",
+          "body": "先别在群里说。",
+          "senderId": "sehun",
+          "time": "2026-11-01 20:05"
+        },
+        {
+          "id": "group-007",
+          "body": "世勋。",
+          "senderId": "suho",
+          "time": "2026-11-01 20:06"
+        },
+        {
+          "id": "group-008",
+          "body": "我只是觉得，她应该知道。",
+          "senderId": "kai",
+          "time": "2026-11-01 20:07"
+        },
+        {
+          "id": "group-009",
+          "body": "那就从最开始讲。不要再删消息了。",
+          "senderId": "owner",
+          "time": "2026-11-01 20:08"
+        }
+      ]
+    }
+  ],
+  "content": {
+    "notes": [
+      {
+        "id": "opening-note",
+        "title": "置顶备忘录｜如果你开始怀疑",
+        "body": "先不要急着相信任何一个人的解释。把九个人分别发来的线索放在一起看。你会发现，他们隐瞒的不是同一件事。\n\n桌面密码提示：第一次一起吃饭的月份和日期。",
+        "time": "2026-11-01 09:00",
+        "sender": "你",
+        "kind": "note",
+        "favorite": true
+      },
+      {
+        "id": "timeline-note",
+        "title": "线索整理",
+        "body": "20:01 队长发起群聊\n20:03 都暻秀提到旧文件\n20:05 你第一次追问\n20:06 吴世勋要求不要在群里说\n\n待核对：九个人收到通知的时间。",
+        "time": "2026-11-01 20:15",
+        "sender": "你",
+        "kind": "note"
+      },
+      {
+        "id": "evidence-suho",
+        "title": "日历备份",
+        "body": "一份被改过两次的行程：最初的备注写着“不要让她一个人来”。",
+        "time": "2026-11-01 21:00",
+        "sender": "SUHO（金俊勉）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-xiumin",
+        "title": "时间戳对照",
+        "body": "同一条通知在三台设备上显示了不同的时间。",
+        "time": "2026-11-01 21:00",
+        "sender": "XIUMIN（金珉锡）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-lay",
+        "title": "未发送语音",
+        "body": "语音只有短短几秒： “如果她问起那天……” 后面突然中断。",
+        "time": "2026-11-01 21:00",
+        "sender": "LAY（张艺兴）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-baekhyun",
+        "title": "草稿箱",
+        "body": "一段没有收件人的长消息，最后一句是“我怕你误会我”。",
+        "time": "2026-11-01 21:00",
+        "sender": "BAEKHYUN（边伯贤）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-chen",
+        "title": "群聊导出说明",
+        "body": "文件备注显示：最初提出暂时保密的人并不是队长。",
+        "time": "2026-11-01 21:00",
+        "sender": "CHEN（金钟大）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-chanyeol",
+        "title": "音频文件",
+        "body": "音频波形中间有明显剪切点，文件创建时间比发送时间早一天。",
+        "time": "2026-11-01 21:00",
+        "sender": "CHANYEOL（朴灿烈）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-do",
+        "title": "时间线表格",
+        "body": "两份记录的日期相同，但地点与参与者顺序对不上。",
+        "time": "2026-11-01 21:00",
+        "sender": "D.O.（都暻秀）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-kai",
+        "title": "旧照片",
+        "body": "照片边缘反射出一个不在画面中的人影，拍摄时间被手动修改过。",
+        "time": "2026-11-01 21:00",
+        "sender": "KAI（金钟仁）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "evidence-sehun",
+        "title": "隐藏文件索引",
+        "body": "索引里有九个名字，最后一个文件夹标注为“留给她自己决定”。",
+        "time": "2026-11-01 21:00",
+        "sender": "SEHUN（吴世勋）",
+        "kind": "note",
+        "folder": "线索"
+      },
+      {
+        "id": "secret-suho",
+        "title": "隐藏档案｜SUHO（金俊勉）",
+        "body": "【虚构剧情档案】他保存着那天最早的一份行程备份。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-xiumin",
+        "title": "隐藏档案｜XIUMIN（金珉锡）",
+        "body": "【虚构剧情档案】他发现九个人收到的消息时间并不一致。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-lay",
+        "title": "隐藏档案｜LAY（张艺兴）",
+        "body": "【虚构剧情档案】他手里有一段被剪掉开头的语音。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-baekhyun",
+        "title": "隐藏档案｜BAEKHYUN（边伯贤）",
+        "body": "【虚构剧情档案】他曾经打出一段很长的解释，却从未发送。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-chen",
+        "title": "隐藏档案｜CHEN（金钟大）",
+        "body": "【虚构剧情档案】他知道谁最先提出了隐瞒计划。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-chanyeol",
+        "title": "隐藏档案｜CHANYEOL（朴灿烈）",
+        "body": "【虚构剧情档案】他的云端草稿里有一份未命名音频。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-do",
+        "title": "隐藏档案｜D.O.（都暻秀）",
+        "body": "【虚构剧情档案】他整理出一条与群聊说法矛盾的时间线。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-kai",
+        "title": "隐藏档案｜KAI（金钟仁）",
+        "body": "【虚构剧情档案】他留着一张拍摄角度特殊的旧照片。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      },
+      {
+        "id": "secret-sehun",
+        "title": "隐藏档案｜SEHUN（吴世勋）",
+        "body": "【虚构剧情档案】他比其他人更早知道手机里有隐藏文件。\n\n这只是第一层线索。继续查看其他人的聊天与记录，才能拼出完整经过。",
+        "time": "2026-11-01 21:30",
+        "sender": "系统",
+        "kind": "note",
+        "hidden": true
+      }
+    ],
+    "photos": [
+      {
+        "id": "photo-dinner",
+        "title": "九个人的聚餐",
+        "body": "一张普通的合照。照片背面写着：那天我们都答应过她。",
+        "time": "2026-10-18 19:42",
+        "sender": "你",
+        "kind": "image",
+        "folder": "回忆"
+      },
+      {
+        "id": "photo-blurry",
+        "title": "模糊的走廊",
+        "body": "走廊尽头有一个模糊的人影，无法仅凭照片确认是谁。",
+        "time": "2026-10-18 20:13",
+        "sender": "kai",
+        "kind": "image",
+        "folder": "待确认"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "calendar-meet",
+        "title": "九人聚餐",
+        "body": "地点：老地方\n备注：不要迟到。有人说有重要事情要宣布。",
+        "time": "2026-10-18 18:30",
+        "sender": "你",
+        "kind": "event"
+      },
+      {
+        "id": "calendar-call",
+        "title": "语音备份时间",
+        "body": "21:30 检查音频原件与备份记录。",
+        "time": "2026-11-02 21:30",
+        "sender": "你",
+        "kind": "event"
+      }
+    ],
+    "files": [
+      {
+        "id": "file-index",
+        "title": "archive_index.txt",
+        "body": "文件夹：SUHO / XIUMIN / LAY / BAEKHYUN / CHEN / CHANYEOL / D.O. / KAI / SEHUN\n状态：9 个档案均存在，尚未全部解锁。",
+        "time": "2026-11-01 21:10",
+        "sender": "系统",
+        "kind": "file"
+      },
+      {
+        "id": "file-audio",
+        "title": "。",
+        "body": "音频文件暂未导入。请把它当作剧情线索，不代表真实录音。",
+        "time": "2026-11-01 21:12",
+        "sender": "系统",
+        "kind": "file"
+      }
+    ],
+    "weibo": [
+      {
+        "id": "weibo-post-1",
+        "title": "今天的夜晚有点长",
+        "body": "有些话不是不想说，只是不知道从哪里开始。",
+        "time": "2026-11-01 20:30",
+        "sender": "SUHO",
+        "kind": "post",
+        "likes": 128,
+        "comments": [
+          "早点休息",
+          "明天会好一点的"
+        ]
+      },
+      {
+        "id": "weibo-post-2",
+        "title": "别把沉默当成答案",
+        "body": "有时候，大家都在等一个人先开口。",
+        "time": "2026-11-01 20:48",
+        "sender": "BAEKHYUN",
+        "kind": "post",
+        "likes": 256,
+        "comments": [
+          "这条好认真",
+          "你是不是又熬夜了"
+        ]
+      }
+    ],
+    "instagram": [
+      {
+        "id": "ig-story-1",
+        "title": "Story｜夜景",
+        "body": "窗外的城市灯光，配字：明天再解释。",
+        "time": "2026-11-01 21:05",
+        "sender": "KAI",
+        "kind": "post",
+        "meta": {
+          "story": "true"
+        }
+      },
+      {
+        "id": "ig-post-1",
+        "title": "旧照片",
+        "body": "一张聚餐桌面的照片，九个杯子都在，镜头外还有第十个杯子。",
+        "time": "2026-10-18 19:50",
+        "sender": "CHANYEOL",
+        "kind": "post",
+        "likes": 903
+      }
+    ],
+    "phone": [
+      {
+        "id": "call-log-1",
+        "title": "未接来电｜未知号码",
+        "body": "来电时间：2026-11-01 21:41\n时长：未接听\n备注：稍后可能再次来电。",
+        "time": "2026-11-01 21:41",
+        "sender": "未知号码",
+        "kind": "call"
+      }
+    ]
+  },
+  "variables": {
+    "affection_suho": 0,
+    "affection_xiumin": 0,
+    "affection_lay": 0,
+    "affection_baekhyun": 0,
+    "affection_chen": 0,
+    "affection_chanyeol": 0,
+    "affection_do": 0,
+    "affection_kai": 0,
+    "affection_sehun": 0,
+    "truth_found": false
+  },
+  "events": [
+    {
+      "id": "story-start",
+      "label": "手机收到陌生提醒",
+      "type": "start",
+      "event": "start",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "system",
+          "value": "有一条未读的旧档案提醒。"
+        }
+      ],
+      "next": [
+        "story-choice"
+      ],
+      "once": true,
+      "x": 80,
+      "y": 100
+    },
+    {
+      "id": "story-choice",
+      "label": "你决定先相信谁？",
+      "type": "choice",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [],
+      "next": [
+        "ending-truth",
+        "ending-trust",
+        "ending-heart"
+      ],
+      "once": true,
+      "x": 360,
+      "y": 100
+    },
+    {
+      "id": "read-suho-evidence",
+      "label": "阅读SUHO（金俊勉）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-suho",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-suho",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-suho"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 80,
+      "y": 260
+    },
+    {
+      "id": "read-xiumin-evidence",
+      "label": "阅读XIUMIN（金珉锡）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-xiumin",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-xiumin",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-xiumin"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 320,
+      "y": 260
+    },
+    {
+      "id": "read-lay-evidence",
+      "label": "阅读LAY（张艺兴）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-lay",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-lay",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-lay"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 560,
+      "y": 260
+    },
+    {
+      "id": "read-baekhyun-evidence",
+      "label": "阅读BAEKHYUN（边伯贤）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-baekhyun",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-baekhyun",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-baekhyun"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 80,
+      "y": 380
+    },
+    {
+      "id": "read-chen-evidence",
+      "label": "阅读CHEN（金钟大）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-chen",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-chen",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-chen"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 320,
+      "y": 380
+    },
+    {
+      "id": "read-chanyeol-evidence",
+      "label": "阅读CHANYEOL（朴灿烈）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-chanyeol",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-chanyeol",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-chanyeol"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 560,
+      "y": 380
+    },
+    {
+      "id": "read-do-evidence",
+      "label": "阅读D.O.（都暻秀）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-do",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-do",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-do"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 80,
+      "y": 500
+    },
+    {
+      "id": "read-kai-evidence",
+      "label": "阅读KAI（金钟仁）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-kai",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-kai",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-kai"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 320,
+      "y": 500
+    },
+    {
+      "id": "read-sehun-evidence",
+      "label": "阅读SEHUN（吴世勋）的线索",
+      "type": "event",
+      "event": "read",
+      "target": "evidence-sehun",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "secret-sehun",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "clue-sehun"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 560,
+      "y": 500
+    },
+    {
+      "id": "ending-truth",
+      "label": "结局｜完整的真相",
+      "type": "ending",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "truth",
+          "value": "完整的真相"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 620,
+      "y": 30
+    },
+    {
+      "id": "ending-trust",
+      "label": "结局｜重新建立信任",
+      "type": "ending",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "trust",
+          "value": "重新建立信任"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 620,
+      "y": 130
+    },
+    {
+      "id": "ending-heart",
+      "label": "结局｜心意不再隐藏",
+      "type": "ending",
+      "event": "",
+      "target": "",
+      "conditions": [],
+      "logic": "and",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "heart",
+          "value": "心意不再隐藏"
+        }
+      ],
+      "next": [],
+      "once": true,
+      "x": 620,
+      "y": 230
+    }
+  ],
+  "tests": [
+    {
+      "name": "完整真相结局路径",
+      "steps": [
+        {
+          "event": "read",
+          "target": "evidence-suho"
+        },
+        {
+          "event": "read",
+          "target": "evidence-xiumin"
+        },
+        {
+          "event": "read",
+          "target": "evidence-lay"
+        },
+        {
+          "event": "read",
+          "target": "evidence-baekhyun"
+        },
+        {
+          "event": "read",
+          "target": "evidence-chen"
+        },
+        {
+          "event": "read",
+          "target": "evidence-chanyeol"
+        },
+        {
+          "event": "read",
+          "target": "evidence-do"
+        },
+        {
+          "event": "read",
+          "target": "evidence-kai"
+        },
+        {
+          "event": "read",
+          "target": "evidence-sehun"
+        },
+        {
+          "choose": "ending-truth"
+        }
+      ],
+      "ending": "完整的真相",
+      "expectUnlocked": [
+        "secret-suho",
+        "secret-xiumin",
+        "secret-lay",
+        "secret-baekhyun",
+        "secret-chen",
+        "secret-chanyeol",
+        "secret-do",
+        "secret-kai",
+        "secret-sehun"
+      ]
+    },
+    {
+      "name": "信任修复结局路径",
+      "steps": [
+        {
+          "event": "read",
+          "target": "evidence-suho"
+        },
+        {
+          "event": "read",
+          "target": "evidence-xiumin"
+        },
+        {
+          "event": "read",
+          "target": "evidence-lay"
+        },
+        {
+          "event": "read",
+          "target": "evidence-baekhyun"
+        },
+        {
+          "event": "read",
+          "target": "evidence-chen"
+        },
+        {
+          "event": "read",
+          "target": "evidence-chanyeol"
+        },
+        {
+          "event": "read",
+          "target": "evidence-do"
+        },
+        {
+          "event": "read",
+          "target": "evidence-kai"
+        },
+        {
+          "event": "read",
+          "target": "evidence-sehun"
+        },
+        {
+          "choose": "ending-trust"
+        }
+      ],
+      "ending": "重新建立信任",
+      "expectUnlocked": [
+        "secret-suho",
+        "secret-xiumin",
+        "secret-lay",
+        "secret-baekhyun",
+        "secret-chen",
+        "secret-chanyeol",
+        "secret-do",
+        "secret-kai",
+        "secret-sehun"
+      ]
+    },
+    {
+      "name": "心意公开结局路径",
+      "steps": [
+        {
+          "event": "read",
+          "target": "evidence-suho"
+        },
+        {
+          "event": "read",
+          "target": "evidence-xiumin"
+        },
+        {
+          "event": "read",
+          "target": "evidence-lay"
+        },
+        {
+          "event": "read",
+          "target": "evidence-baekhyun"
+        },
+        {
+          "event": "read",
+          "target": "evidence-chen"
+        },
+        {
+          "event": "read",
+          "target": "evidence-chanyeol"
+        },
+        {
+          "event": "read",
+          "target": "evidence-do"
+        },
+        {
+          "event": "read",
+          "target": "evidence-kai"
+        },
+        {
+          "event": "read",
+          "target": "evidence-sehun"
+        },
+        {
+          "choose": "ending-heart"
+        }
+      ],
+      "ending": "心意不再隐藏",
+      "expectUnlocked": [
+        "secret-suho",
+        "secret-xiumin",
+        "secret-lay",
+        "secret-baekhyun",
+        "secret-chen",
+        "secret-chanyeol",
+        "secret-do",
+        "secret-kai",
+        "secret-sehun"
+      ]
+    }
+  ]
+}
